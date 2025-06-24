@@ -1,0 +1,7 @@
+Alarmes CloudWatch Configurados:
+
+1. CPUUtilization > 80% por 5 minutos - Notificar via SNS
+2. Erros 5xx em API Gateway - Notificar equipe de DevOps
+3. Billing > 500 USD - Alerta financeiro mensal
+4. Falhas em instâncias EC2 - Recriação automática via Auto Recovery
+5. Uso de disco > 85% - Notificar administrador de sistema

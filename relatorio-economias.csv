@@ -1,0 +1,5 @@
+Serviço,Antes (USD/mês),Depois (USD/mês),Economia (%)
+EC2,600.00,180.00,70
+S3,150.00,90.00,40
+CloudWatch,80.00,60.00,25
+TOTAL,830.00,330.00,60.24
